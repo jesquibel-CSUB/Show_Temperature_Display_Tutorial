@@ -1,4 +1,4 @@
-### @flyoutOnly true
+### @flyoutOnly false
 
 # How to Display Temperature to Screen
 ## Step 1 
