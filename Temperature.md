@@ -1,22 +1,17 @@
 # How to Display Temperature to Screen
-## First drag the show block to the forever loop.
-now place the show block in the **_forever loop_**
-
-
-
-here is another sentence to show **UP**
-
-
+## Step 1 
+First grab a **_show number_** block and place it in the **_forever loop_**
 
 
 ```blocks
 basic.forever(function () {
-    basic.showNumber(0)
+    basic.showNumber()
 })
+
 ```
 
-## section 2 Next drag the temperature sensor bubble to the forever loop.
-here is my instructions for section 2
+## Step 2 
+Next drag the **_temperature sensor_** bubble to the forever loop.
 
 ```blocks
 basic.forever(function () {
@@ -24,3 +19,8 @@ basic.forever(function () {
 })
 
 ```
+
+## Step 3
+Congratulations you have created your temperature sensor. 
+
+Now try to load this program on to your ``micro:bit``
