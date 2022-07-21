@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Temperature.md"
+        "Temperature.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
