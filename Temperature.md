@@ -1,4 +1,4 @@
-
+### @flyoutOnly true
 # How to Display Temperature to Screen
 ## Step 1 
 First grab a ``||basic:show number||`` block and place it in the ``||basic:forever||`` loop
