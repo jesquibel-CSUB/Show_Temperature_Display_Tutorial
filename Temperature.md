@@ -1,3 +1,5 @@
+### @flyoutOnly true
+
 # How to Display Temperature to Screen
 ## Step 1 
 First grab a **_show number_** block and place it in the **_forever loop_**
