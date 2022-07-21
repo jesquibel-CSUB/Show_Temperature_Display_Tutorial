@@ -1,7 +1,7 @@
 
 # How to Display Temperature to Screen
 ## Step 1 
-First grab a **_show number_** block and place it in the **_forever loop_**
+First grab a ``||basic:show number||`` block and place it in the ``||basic:forever||`` loop
 
 
 ```blocks
@@ -12,13 +12,12 @@ basic.forever(function () {
 ```
 
 ## Step 2 
-Next drag the **_temperature sensor_** bubble to the forever loop.
+Next drag the ``||input:temperature||`` bubble to the ``||basic:forever||`` loop.
 
 ```blocks
 basic.forever(function () {
     basic.showNumber(input.temperature())
 })
-
 ```
 
 ## Step 3
